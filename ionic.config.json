@@ -1,0 +1,7 @@
+{
+  "name": "IonicArnauBadenas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
