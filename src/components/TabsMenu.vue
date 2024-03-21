@@ -1,4 +1,5 @@
 <template>
+
    <ion-page>
       <ion-tabs>
          <ion-router-outlet></ion-router-outlet>
@@ -12,5 +13,5 @@
    </ion-page>
 </template>
 <script setup lang="ts">
-   import {IonPage, IonTabs, IonRouterOutlet, IonTabBar, IonTabButton} from '@ionic/vue'
+   import {IonPage, IonTabs, IonRouterOutlet, IonTabBar, IonTabButton, IonMenu, IonHeader, IonToolbar, IonTitle, IonContent} from '@ionic/vue'
 </script>
